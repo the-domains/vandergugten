@@ -1,0 +1,28 @@
+name: vandergugten
+favicon: null
+layout_spectrum: 0.3727518885862082
+typography_spectrum: 0.2885483573190868
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6629835807252675
+  lightness: 0.6980154267512262
+  saturation: 0.9819814374204725
+  rhythmicContrast: 0.9036520631052554
+purpose: []
